@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.trongtu.tacgia.ChiTietTacPham"
+    android:orientation="vertical"
+    android:background="@drawable/grad">
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Trời mỗi ngày lại sáng "
+        android:layout_gravity="center"
+        android:textSize="20dp"
+        />
+    <TextView
+        android:layout_marginTop="20dp"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="Trời mỗi ngày lại sáng\n
+Như cơm trắng mỗi ngày.\n
+Và cuộc đời mang nặng\n
+Sự nghiệp những bàn tay\n.
+
+Đất nằm đất gieo mùa\n
+Chín hạt vàng năm thán\ng.
+Những bàn tay thêu thùa\n
+Những mùa thơm gió nắng.\n
+
+Quê hương ta hàn gắn\n
+Những vết đạn mười năm\n.
+Lúa xoá vành đai trắng,\n
+Ngô khoai lấp miệng hầm.\n
+
+Cuộc sống còn khó nhọc\n
+Nhưng đời đổi mới rồi.\n
+Tiếng con trẻ ngồi học\n
+Giục mùa xuân đâm chồi.\n
+
+Quê ta trời lại xanh\n
+Gió quê ta lại mát,\n
+Con sông quê nước lành\n
+Chợ chiều thơm dào dạt"
+        />
+
+
+</LinearLayout>
